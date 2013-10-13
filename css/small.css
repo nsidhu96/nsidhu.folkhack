@@ -1,0 +1,66 @@
+.menu_name{
+	width: 0%;
+}
+.menu_name img{
+	display: none;
+}
+.menu_description{
+	width: 100%;
+}
+nav{
+	width: 280px;
+	padding: 	5px;
+}
+.cycle{
+	float: none;
+	margin: 0 auto;
+}
+#cycle_menu{
+	float: none;
+	margin: 20px auto -15px auto;
+	border: 3px solid #990000;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+.mission_pic img{
+	display: none;	
+}
+.mission_cycle{
+	height: 130px;
+}	
+.description{
+	width: 100% !important;
+}
+.description p{
+	line-height: 1em;
+}
+#info{
+	padding-right: 60px;
+}
+#col_1, #col_3{
+	display: none;
+}
+#col_2{
+	padding: 0 10px;
+}
+h4{
+	width: 45%;
+	text-align: center;
+}
+h1{
+	display: none;
+}
+#logo{
+	width: 200px;
+	margin: 0 auto;
+	float: none;
+}
+.top{
+	float:none;
+}
+.bottom{
+	float:none;
+}
+.menu{
+	width:100%;
+}

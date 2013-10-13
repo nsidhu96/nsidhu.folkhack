@@ -1,0 +1,317 @@
+body {
+	background: #2a2a2a;
+}
+h1{
+	font-family: "Calibri", serif;
+	color: transparent;
+	float: left;
+	padding-left: 10%;
+	background-color: #f5f5f5;
+	width: 90%;
+}
+#logo{
+	float: left;
+	margin-left: 5%;
+	margin-top: -80px;
+}
+#logo img{
+	border-radius: 60px;
+}
+/*Page Container*/
+#content{
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+}
+#wrap_sub{
+	padding-top: 10px;
+	background-color: #FFFFFF;
+	border-right: 3px solid #CCCCCC;
+	border-left: 3px solid #888888;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+#content h2 {
+	border-bottom: 1px solid #7092BE;
+	padding: 0 0 5px 0;
+	margin: 10px auto;	
+	font-family: "Calibri", serif;
+	font-size: 1.6em;
+	text-align: center;
+	line-height: 1.4em;
+	width: 80%;
+}
+#content h3{
+	font-family: "Calibri", serif;
+}
+.gutter{
+	margin: 0 auto;
+	padding-bottom: 20px;
+	width: 80%;
+	text-align: justify;
+}
+/*Navigation*/
+nav{
+	margin-right: 10%;
+	padding-top: 0;
+	margin-top: -8.1%;
+	border: 0;
+	font-size: 100%;
+	float: right;
+	vertical-align: baseline;
+	height: 33px;
+	background-color: #f5f5f5;
+	position: relative;
+}
+nav ul{
+	list-style-type: none;
+	height: 1.1em;
+}
+nav li{
+	float: left;
+	padding: 0 10px 10px 10px;
+	margin-top: -10px;
+	font-family: "Calibri", serif;
+	font-size: 1.1em;	
+}
+nav li a{
+	text-decoration: none;
+	color: #000000;
+}
+.current{
+	color:#FF9B05;
+	font-weight: bold;
+}
+#conclusion{
+	padding: 0;
+}
+/*Content*/
+p{	
+	font-family: "Calibri", serif;
+	font-size: 1em;
+}
+.introduction{
+	padding-top: 10px;
+	margin: 0 0 0 10%;
+}
+#border, #border_contact, #border_mission{
+	height: 10px;
+	width: 100%;
+	background-color: #7092BE;
+	float: left;
+	margin-bottom: 5px;
+	margin-top: 6px;
+}
+#border_small, #border_small_contact, #border_small_mission{
+	height: 10px;
+	width: 100%;
+	background-color: #7092BE;
+	float: left;
+	margin-bottom: 5px;
+	margin-top: 6px;
+}
+#cycle{
+	width: 300px;
+	height: 200px;
+	overflow: hidden;
+	float: right;
+	margin: 13px 10% 5px 10px;
+	position: relative;
+}
+#cycle_menu{
+	width: 300px;
+	height: 200px;
+	overflow: hidden;
+	float: right;
+	margin: 13px 10% 5px 10px;
+	position: relative;
+}
+/*Menu Formatting*/
+.menu{
+	width: 80%;
+	margin: 0 auto;
+}
+.menu_name{
+	width: 30%;
+}
+.menu_name img{
+	margin: 0 auto;
+	display: block;
+	border: 3px solid #990000;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+.menu_description{
+	width: 50%;
+	margin: 0 auto;
+	font-family: "Calibri", serif;
+	font-size: .9em;
+}
+.dish{
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 5px auto;
+	font-family: "Calibri", serif;
+	font-size: 1.1em;
+}
+table{
+	padding: 0 0 10px 0;
+}
+/*Contact Formatting*/
+#col_1, #col_3{
+	width: 25%;
+}
+#col_2 {
+	width: 40%;
+	padding: 0;
+	text-align: justify;
+	font-family: "Calibri", serif;
+	line-height: 1.1em;
+}
+#col_4{
+	width:75%;
+}
+#col_1 img, #col_3 img{
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+	border: 3px solid #2E8A2E;
+	border-radius: 8px;
+}
+#contact{
+	padding: 10px 0 10px 0;
+	background-color: #A3FF85;
+	border-radius: 10px;
+}
+#info{
+	float:left;
+	text-align: left;
+	width: 13%;
+	padding-right: 13px;
+	font-weight: bold;
+}
+.category {
+	font-family: "Calibri", serif;
+	list-style: none;
+	line-height: 1.4;
+	width: 80%;
+	margin-left: -7.5%%;
+	margin-top: 2%;
+	font-style: italic;
+}
+.contact_info{
+	font-family: "Calibri", serif;
+	list-style: none;
+	line-height: 1.4;	
+}
+h4 {
+	border-bottom: 1px solid #990000;
+	padding: 0 0 5px 0;
+	margin: 10px 0 0 0;
+	font-family: "Calibri", serif;
+	font-size: 1.3em;
+	text-align: left;
+	line-height: .8em;
+	width: 20%;
+	font-style: italic;
+}
+.email 	a, .email a:visited, .email a:hover, .email a:active{
+	color: black;
+}
+/*Mission*/
+.mission{
+	width: 80%;
+	margin: 0 auto;
+}
+.mission_pic img{
+	margin-left: 10px;
+	margin-top: 5px;
+	display: block;
+	border: 3px solid #990000;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+.description{
+	font-family: "Calibri", serif;
+	font-size: .95em;
+	width: 80% !important;
+
+}
+.description p{
+	font-family: "Calibri", serif;
+	font-size: 90%;
+	width: 90% !important;
+	margin: 0 auto;
+}
+.title{
+	font-weight: bold;
+	text-transform: uppercase;
+	width: 100% !important;
+	margin: 0 auto;
+	font-family: "Calibri", serif;
+	font-size: 1.3em;
+	text-align: center;
+}
+.mission_cycle{
+	overflow: hidden;
+	background-color: #FFB280;
+	border-radius: 8px;
+	width: 100% !important;
+	height: 126px;
+}
+/*Footer*/
+#footer_line {
+	height: 3px;
+	width: 100%;
+	border-color: #1f1b16;
+	float: left;
+}
+footer {
+	background: url('/projects/summer/images/footer.png') no-repeat center top;
+	padding: 0; margin: 0;	
+	text-align: right;
+	height: 80px;
+	border-right: 3px solid #1f1b16;
+	border-left: 3px solid #1f1b16;
+	border-bottom: 3px solid #1f1b16;
+	border-bottom-right-radius: 32px;
+	border-bottom-left-radius: 32px;
+}
+footer .main {
+	float: right;
+	margin: 5px 5px 0 0;
+}
+footer .logo{ 
+	float: right;
+	padding: 22px 5px 0 0; 
+}
+footer .logo img{
+	border-radius: 15px;
+}
+footer p {
+		color: #FF9B05;
+		float: left;
+		padding: 20px 10px 0 0;			
+		width: 160px;
+			
+		font-family: verdana, sans-serif;
+		font-size: .6em;
+		text-align: right;
+		line-height: 1.5em;
+}
+
+/*Clearfixes*/
+.clearfix{
+	clear: both;
+	display: block;
+}
+.clearfix_none{
+	clear: none;
+}
+.clearfix_left{
+	clear:left;
+}
+
+.clearfix_right{
+	clear:right;
+}

@@ -1,0 +1,54 @@
+#content{
+	width: 100%;
+	margin: 0 auto;
+	border: 0;
+}
+nav{
+	margin: 0 auto;
+	padding: 0;
+	background-color: transparent;
+	height: 100%;
+	float: none;
+	width: 450px;
+}
+#cycle{
+	width: 250px;
+	height: 167px;
+	margin: 13px 10% 0 5px;
+}
+#cycle img{
+	width: 250px;
+	height: 167px;
+}
+#cycle_menu{
+	width: 250px;
+	height: 166px;
+	margin: 13px 10% 0 5px;
+}
+#cycle_menu img{
+	width: 250px;
+	height: 167px;
+}
+}
+.mission_pic img{
+	width: 125px;
+}
+.title{
+	font-size: 1.2em;
+}
+#info{
+	padding-right: 30px;
+}
+nav li {
+	font-size: 1.3em;
+	border: 1px solid #ccc;
+	border-radius: 7px;
+	margin: 5px;
+	padding: 5px 10px 5px 10px;
+	box-shadow: 3px 3px 3px#CCC;
+	min-width: 70px;
+	text-align: center;
+}
+h4{
+	width: 27%;
+}
