@@ -70,11 +70,14 @@ $(document).ready(function(){
 		collapsible: "true",
 		event: "click hoverintent"
 	});
+
+  // TODO - fix pathing
 	var home = "/C:/projects/summer/index.php";
 	var menu = "/C:/projects/summer/menu/index.php"
 	var contact = "/C:/projects/summer/contact/index.php"
 	var mission = "/C:/projects/summer/mission/index.php"
 	var pathname = (window.location.pathname);
+
 	if (pathname==home)
 	{
 		$('#button1').addClass('current');
