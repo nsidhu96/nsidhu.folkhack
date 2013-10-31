@@ -72,10 +72,10 @@ $(document).ready(function(){
 	});
 
   // TODO - fix pathing
-	var home = "/C:/projects/summer/index.php";
-	var menu = "/C:/projects/summer/menu/index.php"
-	var contact = "/C:/projects/summer/contact/index.php"
-	var mission = "/C:/projects/summer/mission/index.php"
+	var home = "/C:/index.php";
+	var menu = "/C:/menu/index.php"
+	var contact = "/C:/contact/index.php"
+	var mission = "/C:/mission/index.php"
 	var pathname = (window.location.pathname);
 
 	if (pathname==home)
