@@ -17,8 +17,8 @@
             <div id="wrap_sub">
                 <h1>Restaurant</h1>
                 <div id="logo"><img src="/projects/summer/images/logo.png" alt="logo"/></div>
-                <div class = "cleafix" id="border_small_mission"></div>
-                <nav class = "clearfix_none">
+                <div class="cleafix" id="border_small_mission"></div>
+                <nav class="clearfix_none">
                         <ul id = "navigation">
                             <li><a id = "button1" title="Home: Simply better." href="/projects/summer/index.php">Home</a></li>
                             <li><a id = "button2" title="Menu: Local, Seasonal, Delicious" href="/projects/summer/menu/index.php">Menu</a></li>
@@ -26,11 +26,11 @@
                             <li><a id = "button4" title="Mission: Going back to the caveman" href="/projects/summer/mission/index.php">Mission</a></li>
                         </ul>
                 </nav>       
-                <div class = "cleafix" id="border_mission"></div>
+                <div class="cleafix" id="border_mission"></div>
                 <section class="main_content">
                     <h2 class="clearfix_left">Going back to the caveman</h2>
-                    <div class = "gutter clearfix introduction">
-                        <p class ="mission"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est augue, auctor ut porttitor vitae, bibendum a urna. 
+                    <div class="gutter clearfix introduction">
+                        <p class="mission"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est augue, auctor ut porttitor vitae, bibendum a urna. 
                             Suspendisse non rutrum libero, nec rutrum magna. Nullam pretium enim tellus, non rutrum lectus luctus ornare. 
                             Phasellus pretium, odio sed imperdiet rhoncus, risus eros posuere magna, sit amet volutpat ipsum felis ut lorem.
                         </p>
