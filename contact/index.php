@@ -4,26 +4,26 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />       
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <title>We Don't Bite! - Restaurant</title>
-        <link rel='stylesheet' href='/projects/summer/css/style.css'>
-        <link rel="stylesheet" media="screen and (max-width: 720px)" href="/projects/summer/css/medium.css">
-        <link rel="stylesheet" media="screen and (max-width: 550px)" href="/projects/summer/css/small.css">
-		<script src="/projects/summer/js/jquery.js"></script>
-        <script src="/projects/summer/js/jquery.cycle.js"></script>
+        <link rel='stylesheet' href='/css/style.css'>
+        <link rel="stylesheet" media="screen and (max-width: 720px)" href="/css/medium.css">
+        <link rel="stylesheet" media="screen and (max-width: 550px)" href="/css/small.css">
+		<script src="/js/jquery.js"></script>
+        <script src="/js/jquery.cycle.js"></script>
 		<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-        <script src='/projects/summer/js/script.js'></script>
+        <script src='/js/script.js'></script>
     </head>
     <body>
         <div id="content">
             <div id="wrap_sub">
     	        <h1>Restaurant</h1>
-                <div id="logo"><img src="/projects/summer/images/logo.png" alt="logo"/></div>
+                <div id="logo"><img src="/images/logo.png" alt="logo"/></div>
                 <div class = "cleafix" id="border_small_contact"></div>
                 <nav class = "clearfix_none">
                         <ul id = "navigation">
-                            <li><a id = "button1" title="Home: Simply better." href="/projects/summer/index.php">Home</a></li>
-                            <li><a id = "button2" title="Menu: Local, Seasonal, Delicious" href="/projects/summer/menu/index.php">Menu</a></li>
-                            <li><a id = "button3" title="Contact: We don't bite!" href="/projects/summer/contact/index.php">Contact</a></li>
-                            <li><a id = "button4" title="Mission: Going back to the caveman" href="/projects/summer/mission/index.php">Mission</a></li>
+                            <li><a id = "button1" title="Home: Simply better." href="/index.php">Home</a></li>
+                            <li><a id = "button2" title="Menu: Local, Seasonal, Delicious" href="/menu/index.php">Menu</a></li>
+                            <li><a id = "button3" title="Contact: We don't bite!" href="/contact/index.php">Contact</a></li>
+                            <li><a id = "button4" title="Mission: Going back to the caveman" href="/mission/index.php">Mission</a></li>
                         </ul>
                 </nav>       
                 <div class = "cleafix" id="border_contact"></div>
@@ -33,7 +33,7 @@
                         <table id ="contact">
                             <tr>
                                 <td id="col_1">
-                                    <img src="/projects/summer/images/contact/1.png" alt="Chef2" />
+                                    <img src="/images/contact/1.png" alt="Chef2" />
                                 </td>
                                 <td id="col_2">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est augue, auctor ut porttitor vitae, bibendum a urna. 
@@ -41,7 +41,7 @@
                                     Phasellus pretium, odio sed imperdiet rhoncus, risus eros posuere magna, sit amet volutpat ipsum felis ut lorem.
                                 </td>
                                 <td id="col_3">
-                                    <img src="/projects/summer/images/contact/2.png" alt="Chef1" />
+                                    <img src="/images/contact/2.png" alt="Chef1" />
                                 </td>
                             </tr>
                         </table>
@@ -61,7 +61,7 @@
                 <div class="main clearfix">
                     <p>&copy; 2013 <br /> Nathan Sidhu</p>
                     <div class="logo">
-                        <a href="index.php"><img src="/projects/summer/images/logo_small.png" alt="Restaurant Logo" /></a>
+                        <a href="index.php"><img src="/images/logo_small.png" alt="Restaurant Logo" /></a>
                     </div>
                 </div>
             </footer>
