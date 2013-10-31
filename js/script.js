@@ -96,6 +96,7 @@ $(document).ready(function(){
 	};
 
 });
+/*
 $.event.special.hoverintent = {
     setup: function() {
       $( this ).bind( "mouseover", jQuery.event.special.hoverintent.handler );
@@ -155,4 +156,4 @@ $.event.special.hoverintent = {
         mouseout: clear
       });
     }
-};
+};*/
