@@ -34,7 +34,7 @@
                         <img src="images/cycle/2.png" alt="Classy food pic" />
                         <img src="images/cycle/3.png" alt="Classy food pic" />   
                     </div>
-                    <p class ="gutter clearfix_left introduction"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est augue, auctor ut porttitor vitae, bibendum a urna. 
+                    <p class="gutter clearfix_left introduction"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est augue, auctor ut porttitor vitae, bibendum a urna. 
                         Suspendisse non rutrum libero, nec rutrum magna. Nullam pretium enim tellus, non rutrum lectus luctus ornare. 
                         Phasellus pretium, odio sed imperdiet rhoncus, risus eros posuere magna, sit amet volutpat ipsum felis ut lorem. Vestibulum tempor augue est, aliquet semper nunc elementum at. 
                         Aenean mollis nibh erat, vitae consequat risus fermentum id. Nunc mauris mi, sagittis at posuere ac, ultrices vitae lacus. Cras luctus libero vitae pellentesque vehicula. 
