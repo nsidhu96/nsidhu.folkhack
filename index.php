@@ -17,16 +17,16 @@
             <div id="wrap_sub">
                 <h1>Restaurant</h1>
                 <div id="logo"><img src="images/logo.png" alt="logo"/></div>
-                <div class = "cleafix" id="border_small"></div>
-                <nav class = "clearfix_none">
-                        <ul id = "navigation">
-                            <li><a id = "button1" title="Home: Simply better." href="index.php">Home</a></li>
-                            <li><a id = "button2" title="Menu: Local, Seasonal, Delicious" href="menu/index.php">Menu</a></li>
-                            <li><a id = "button3" title="Contact: We don't bite!" href="contact/index.php">Contact</a></li>
-                            <li><a id = "button4" title="Mission: Going back to the caveman" href="mission/index.php">Mission</a></li>
+                <div class="cleafix" id="border_small"></div>
+                <nav class="clearfix_none">
+                        <ul id="navigation">
+                            <li><a id="button1" title="Home: Simply better." href="index.php">Home</a></li>
+                            <li><a id="button2" title="Menu: Local, Seasonal, Delicious" href="menu/index.php">Menu</a></li>
+                            <li><a id="button3" title="Contact: We don't bite!" href="contact/index.php">Contact</a></li>
+                            <li><a id="button4" title="Mission: Going back to the caveman" href="mission/index.php">Mission</a></li>
                         </ul>
                 </nav>    
-                <div class = "cleafix" id="border"></div>
+                <div class="cleafix" id="border"></div>
                 <section id="main_content" class="clearfix">
                     <h2 class="clearfix_left" id="top">Simply better.</h2>
                     <div id="cycle">
