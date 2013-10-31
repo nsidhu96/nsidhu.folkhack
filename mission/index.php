@@ -16,7 +16,7 @@
         <div id="content">
             <div id="wrap_sub">
                 <h1>Restaurant</h1>
-                <div id="logo"><img src="/projects/summer/images/logo.png" alt="logo"/></div>
+                <div id="logo"><img src="/images/logo.png" alt="logo"/></div>
                 <div class="cleafix" id="border_small_mission"></div>
                 <nav class="clearfix_none">
                         <ul id = "navigation">
