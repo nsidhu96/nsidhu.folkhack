@@ -17,16 +17,16 @@
             <div id="wrap_sub">
     	        <h1>Restaurant</h1>
                 <div id="logo"><img src="/projects/summer/images/logo.png" alt="logo"/></div>
-                <div class = "cleafix" id="border_small_contact"></div>
-                <nav class = "clearfix_none">
-                        <ul id = "navigation">
-                            <li><a id = "button1" title="Home: Simply better." href="/projects/summer/index.php">Home</a></li>
-                            <li><a id = "button2" title="Menu: Local, Seasonal, Delicious" href="/projects/summer/menu/index.php">Menu</a></li>
-                            <li><a id = "button3" title="Contact: We don't bite!" href="/projects/summer/contact/index.php">Contact</a></li>
-                            <li><a id = "button4" title="Mission: Going back to the caveman" href="/projects/summer/mission/index.php">Mission</a></li>
+                <div class="cleafix" id="border_small_contact"></div>
+                <nav class="clearfix_none">
+                        <ul id="navigation">
+                            <li><a id="button1" title="Home: Simply better." href="/projects/summer/index.php">Home</a></li>
+                            <li><a id="button2" title="Menu: Local, Seasonal, Delicious" href="/projects/summer/menu/index.php">Menu</a></li>
+                            <li><a id="button3" title="Contact: We don't bite!" href="/projects/summer/contact/index.php">Contact</a></li>
+                            <li><a id="button4" title="Mission: Going back to the caveman" href="/projects/summer/mission/index.php">Mission</a></li>
                         </ul>
                 </nav>       
-                <div class = "cleafix" id="border_contact"></div>
+                <div class="cleafix" id="border_contact"></div>
                 <section id="main_content">
                     <h2 class="clearfix_left">We don't bite!</h2>
                     <div class ="gutter">
